@@ -27,7 +27,7 @@ twitter_description: Open Science Community Eindhoven
 #
 
 countdown:
-  launch_date: 2019-01-16
+  launch_date: 2019-02-28
   format: "%d days, %H hours, %M minutes, %S seconds" 
 
 ### template colors, used site-wide via css ###
